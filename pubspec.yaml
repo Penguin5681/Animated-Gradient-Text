@@ -1,6 +1,6 @@
 name: animated_gradient_text
-description: "Create stunning animated gradient text with optional borders in Flutter. Smooth transitions, customizable colors, and spacing. Perfect for modern UI designs! 🚀"
-version: 0.0.1
+description: "Create stunning animated gradient text with optional borders in Flutter. Smooth transitions, customizable colors, and spacing. Perfect for modern UI designs!"
+version: 0.0.2
 homepage: https://github.com/Penguin5681/Animated-Gradient-Text
 
 environment:
